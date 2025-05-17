@@ -1,0 +1,21 @@
+{
+  "name": "telegram-bot-server",
+  "version": "1.0.0",
+  "description": "A lightweight server for handling Telegram Bot API requests, webhooks, and file downloads.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "api",
+    "webhook",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
